@@ -14,4 +14,7 @@ El objetivo es adivinar la palabra secreta antes de que se complete el dibujo de
 
 - **HTML5** → estructura del juego  
 - **CSS3** → estilos y diseño visual  
-- **JavaScript (ES6)** → lógica del juego  
+- **JavaScript (ES6)** → lógica del juego
+
+- ##Demo
+- https://hangman-9qpi.onrender.com
