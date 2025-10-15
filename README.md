@@ -1,7 +1,7 @@
 ## Hangman
-Un juego clásico del **Ahorcado** desarrollado con **HTML, CSS y JavaScript**.  
-El objetivo es adivinar la palabra secreta antes de que se complete el dibujo del ahorcado.
-
+-Un juego clásico del **Ahorcado** desarrollado con **HTML, CSS y JavaScript**.  
+-El objetivo es adivinar la palabra secreta antes de que se complete el dibujo del ahorcado.
+-Demo: https://hangman-9qpi.onrender.com
 # 🕹️ Cómo jugar
 
 1. El juego elige una palabra secreta al azar.  
@@ -15,6 +15,3 @@ El objetivo es adivinar la palabra secreta antes de que se complete el dibujo de
 - **HTML5** → estructura del juego  
 - **CSS3** → estilos y diseño visual  
 - **JavaScript (ES6)** → lógica del juego
-
-- ##Demo
-- https://hangman-9qpi.onrender.com
