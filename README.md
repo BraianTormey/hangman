@@ -1,4 +1,4 @@
-# hangman
+## Hangman
 Un juego clásico del **Ahorcado** desarrollado con **HTML, CSS y JavaScript**.  
 El objetivo es adivinar la palabra secreta antes de que se complete el dibujo del ahorcado.
 
